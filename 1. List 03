@@ -1,0 +1,5 @@
+# Add Banana to this list
+fruits = ['Apple', 'Mango', 'Lichi', 'Cherry', 'Orange']
+print(fruits)
+fruits.append('Banana')
+print(fruits)
